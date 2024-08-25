@@ -1,4 +1,4 @@
-🎮 JEU PAPIER , CAILLOU, CISEAUX
+🎮 JEU PAPIER / CAILLOU / CISEAUX
 
 Bienvenue sur le dépôt GitHub de mon projet de jeu "Pierre, Papier, Ciseaux" ! Ce jeu classique est développé en JavaScript, HTML et CSS, et vous permet de jouer contre l'ordinateur dans une interface simple et intuitive.
 
